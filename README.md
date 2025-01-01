@@ -16,7 +16,7 @@ Entrega – Possui status e código de rastreio;
 ## Tecnologias Utilizadas
 - Banco de Dados MySQL
 
-## Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/jose-raniel/Ecommerce-Project.git
+## Resposta do Desafio
+
+![Ecommerce](https://github.com/user-attachments/assets/5bedfbb0-b040-438c-b167-a9a929b74ee6)
+
